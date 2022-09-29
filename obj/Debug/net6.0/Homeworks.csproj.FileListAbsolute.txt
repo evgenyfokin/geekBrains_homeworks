@@ -1,0 +1,15 @@
+/Users/eugenefokin/Desktop/Homeworks/bin/Debug/net6.0/Homeworks
+/Users/eugenefokin/Desktop/Homeworks/bin/Debug/net6.0/Homeworks.deps.json
+/Users/eugenefokin/Desktop/Homeworks/bin/Debug/net6.0/Homeworks.runtimeconfig.json
+/Users/eugenefokin/Desktop/Homeworks/bin/Debug/net6.0/Homeworks.dll
+/Users/eugenefokin/Desktop/Homeworks/bin/Debug/net6.0/Homeworks.pdb
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/Homeworks.csproj.AssemblyReference.cache
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/Homeworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/Homeworks.AssemblyInfoInputs.cache
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/Homeworks.AssemblyInfo.cs
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/Homeworks.csproj.CoreCompileInputs.cache
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/Homeworks.dll
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/refint/Homeworks.dll
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/Homeworks.pdb
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/Homeworks.genruntimeconfig.cache
+/Users/eugenefokin/Desktop/Homeworks/obj/Debug/net6.0/ref/Homeworks.dll
