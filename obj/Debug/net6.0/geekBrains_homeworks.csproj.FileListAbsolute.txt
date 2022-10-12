@@ -1,0 +1,15 @@
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/bin/Debug/net6.0/geekBrains_homeworks
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/bin/Debug/net6.0/geekBrains_homeworks.deps.json
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/bin/Debug/net6.0/geekBrains_homeworks.runtimeconfig.json
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/bin/Debug/net6.0/geekBrains_homeworks.dll
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/bin/Debug/net6.0/geekBrains_homeworks.pdb
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/geekBrains_homeworks.csproj.AssemblyReference.cache
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/geekBrains_homeworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/geekBrains_homeworks.AssemblyInfoInputs.cache
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/geekBrains_homeworks.AssemblyInfo.cs
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/geekBrains_homeworks.csproj.CoreCompileInputs.cache
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/geekBrains_homeworks.dll
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/refint/geekBrains_homeworks.dll
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/geekBrains_homeworks.pdb
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/geekBrains_homeworks.genruntimeconfig.cache
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/obj/Debug/net6.0/ref/geekBrains_homeworks.dll
