@@ -5,18 +5,18 @@ void isPalindrome() {
     int userNum = Convert.ToInt32(Console.ReadLine());
     string result = "";
     int decrement = 0;
-    int duplicateUserName = userNum;
-    while (duplicateUserName > 0) {
-        decrement = duplicateUserName % 10;
+    int duplicateUserNum = userNum;
+    while (duplicateUserNum > 0) {
+        decrement = duplicateUserNum % 10;
         result = result + $"{decrement}";
-        duplicateUserName = duplicateUserName / 10;
+        duplicateUserNum = duplicateUserNum / 10;
     }
     int resultToNum = Convert.ToInt32(result);
     if (userNum == resultToNum) {
-        Console.WriteLine($"{userNum} is a palindrome?");
+        Console.WriteLine($"{userNum} is a palindrome");
     }
     else {
-        Console.WriteLine($"{userNum} is not a palindrome?");
+        Console.WriteLine($"{userNum} is not a palindrome");
     }
 }
 
