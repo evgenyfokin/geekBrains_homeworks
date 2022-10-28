@@ -1,0 +1,15 @@
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/bin/Debug/net6.0/homeWork9
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/bin/Debug/net6.0/homeWork9.deps.json
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/bin/Debug/net6.0/homeWork9.runtimeconfig.json
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/bin/Debug/net6.0/homeWork9.dll
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/bin/Debug/net6.0/homeWork9.pdb
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/homeWork9.csproj.AssemblyReference.cache
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/homeWork9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/homeWork9.AssemblyInfoInputs.cache
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/homeWork9.AssemblyInfo.cs
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/homeWork9.csproj.CoreCompileInputs.cache
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/homeWork9.dll
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/refint/homeWork9.dll
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/homeWork9.pdb
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/homeWork9.genruntimeconfig.cache
+/Users/eugenefokin/Desktop/homeworks/geekBrains_homeworks/homeWork9/obj/Debug/net6.0/ref/homeWork9.dll
